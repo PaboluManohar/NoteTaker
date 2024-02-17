@@ -8,7 +8,7 @@ import javax.persistence.Entity;
 import javax.persistence.Id;
 import javax.persistence.Table;
 
-//17-02-2024 main in remote
+//17-02-2024 main in remote ok 
 @Entity
 @Table(name="notes")
 public class Note {
