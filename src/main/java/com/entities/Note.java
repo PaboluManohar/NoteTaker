@@ -12,7 +12,7 @@ import javax.persistence.Table;
 import java.util.stream.Stream;
 import java.io.PrintWriter;
 
-//17-02-2024 in f2 again added...........
+//17-02-2024 in f2 again added,.
 //17-02-2024 main in remote ok ...........
 
 @Entity
