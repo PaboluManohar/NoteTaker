@@ -8,7 +8,7 @@ import javax.persistence.Entity;
 import javax.persistence.Id;
 import javax.persistence.Table;
 
-//17-02-2024 in f2 again added
+//17-02-2024 in f2 again added...........
 @Entity
 @Table(name="notes")
 public class Note {
